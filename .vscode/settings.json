@@ -1,0 +1,12 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "coon1",
+            "group": "conngroup1",
+            "database": "${workspaceFolder:18.02.2024}/db1.db"
+        }
+    ]
+}
